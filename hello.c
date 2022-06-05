@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 int main() {
-	printf("Hello Codelearn");
+	printf("Hello baitap2 ");
+	printg("/");
 	return 0;
 }
